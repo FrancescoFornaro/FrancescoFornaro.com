@@ -6,6 +6,10 @@ categories: jekyll update
 ---
 Questo è stato editato da Obsidian.
 
+> Questo è un secondo update mentre sto lavorando ai CNAME. Voglio assicurarmi che tutto funzioni correttamente.
+
+A breve copierò altri post.
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
