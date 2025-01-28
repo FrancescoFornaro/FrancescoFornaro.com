@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2024-10-24-Problemi-da-risolvere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2024-10-24-Problemi-da-risolvere"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2024-10-24-Problemi-da-risolvere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a index"
+              "title": "Riferimenti a 2024-10-24-Problemi-da-risolvere"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2024-10-24-Problemi-da-risolvere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da index"
+              "title": "Collegamenti in uscita da 2024-10-24-Problemi-da-risolvere"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_posts/2024-10-24-Problemi-da-risolvere.md"
               },
               "icon": "lucide-list",
-              "title": "Struttura di index"
+              "title": "Struttura di 2024-10-24-Problemi-da-risolvere"
             }
           }
         ]
@@ -162,8 +162,11 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "e63dc6efe32caeb9",
+  "active": "a9f2f0a2f8299d72",
   "lastOpenFiles": [
+    "contenuti/2024-10-25 Superare i problemi.jpg",
+    "contenuti",
+    "index.md",
     "_posts/2025-01-28-welcome-to-jekyll.md",
     "_posts/2025-01-13 Tante-realtà.md",
     "_posts/2024-12-18 Scrivere-per-rileggersi.md",
@@ -173,7 +176,6 @@
     "_posts/2024-11-25 Scrivendo dal passato, nel futuro.md",
     "_posts/2024-12-18 Scrivere per rileggersi.md",
     "_posts/2025-01-13 Tante realtà ma la verità è una.md",
-    "index.md",
     "about.md",
     "_posts/2025-01-28-welcome-to-jekyll.markdown",
     "index.markdown",
@@ -187,7 +189,6 @@
     "Benvenuto.md",
     "README.md",
     "_posts/2025-01-28-post di prova.md",
-    "_drafts/2025-01-28.md",
-    "assets/css"
+    "_drafts/2025-01-28.md"
   ]
 }

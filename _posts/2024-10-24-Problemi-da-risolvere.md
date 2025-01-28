@@ -1,5 +1,3 @@
-giovedì 24 ottobre 2024
-***
 
 Esistono due tipologie di problemi con cui abbiamo a che fare: i problemi che si possono **risolvere** e i problemi che si devono **superare**.
 
@@ -17,7 +15,6 @@ E se ci intestardiamo con il volerli **risolvere**, rischiamo di farci parecchio
 
 ![[2024-10-25 Superare i problemi.jpg]]
 
-
 Che si fa quindi con i problemi irrisolvibili, visto che non si possono risolvere?
 Si deve smettere di cercare di risolverli, naturalmente. Bisogna, invece, **superarli**. 
 
@@ -32,7 +29,3 @@ Credo infine che la sfumatura esista: il confine tra problemi risolvibili e irri
 Quando nel **coaching** non si lavora su temi specifici e precisi ma si sceglie un percorso più ampio, che coinvolga diverse aree della vita, è importante stilare un elenco dei problemi attuali e dei cambiamenti che si desidera realizzare, usando proprio questo criterio distintivo: quali sono quelli superabili e quali invece quelli risolvibili? 
 
 Questo modo di ragionare ci dà accesso a un interessante punto di partenza per prendere le conseguenti decisioni migliori, anche in termini di atteggiamento e dispiegamento di tempo ed energie.
-
-***
-
-#pubblicato #community 
