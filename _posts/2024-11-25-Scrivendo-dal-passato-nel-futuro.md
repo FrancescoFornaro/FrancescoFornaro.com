@@ -1,6 +1,3 @@
-lunedì 25 novembre 2024
-___
-
 Alcuni giorni fa sono entrato in contatto, più o meno casualmente, con un servizio web all'apparenza elementare, ma capace di generare implicazioni profonde quando utilizzato.
 
 Troverai il link alla fine di questo contenuto, ma prima lasciami spiegare perché ho deciso di scriverne sulla Community e perché ha a che fare con il **coaching**.
@@ -56,6 +53,5 @@ Chiaramente molte cose possono andare storte: magari tra vent'anni non avremo pi
 
 Buona riflessione e buona scrittura...
 
-#pubblicato #community 
 
 

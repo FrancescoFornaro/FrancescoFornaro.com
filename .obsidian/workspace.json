@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-10-24-Problemi-da-risolvere.md",
+                "file": "_posts/2024-11-25-Scrivendo-dal-passato-nel-futuro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-24-Problemi-da-risolvere"
+              "title": "2024-11-25-Scrivendo-dal-passato-nel-futuro"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-10-24-Problemi-da-risolvere.md",
+                "file": "_posts/2024-11-25-Scrivendo-dal-passato-nel-futuro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a 2024-10-24-Problemi-da-risolvere"
+              "title": "Riferimenti a 2024-11-25-Scrivendo-dal-passato-nel-futuro"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-10-24-Problemi-da-risolvere.md",
+                "file": "_posts/2024-11-25-Scrivendo-dal-passato-nel-futuro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da 2024-10-24-Problemi-da-risolvere"
+              "title": "Collegamenti in uscita da 2024-11-25-Scrivendo-dal-passato-nel-futuro"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-10-24-Problemi-da-risolvere.md"
+                "file": "_posts/2024-11-25-Scrivendo-dal-passato-nel-futuro.md"
               },
               "icon": "lucide-list",
-              "title": "Struttura di 2024-10-24-Problemi-da-risolvere"
+              "title": "Struttura di 2024-11-25-Scrivendo-dal-passato-nel-futuro"
             }
           }
         ]
@@ -162,8 +162,9 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "a9f2f0a2f8299d72",
+  "active": "e63dc6efe32caeb9",
   "lastOpenFiles": [
+    "_posts/2024-10-24-Problemi-da-risolvere.md",
     "contenuti/2024-10-25 Superare i problemi.jpg",
     "contenuti",
     "index.md",
@@ -171,7 +172,6 @@
     "_posts/2025-01-13 Tante-realtà.md",
     "_posts/2024-12-18 Scrivere-per-rileggersi.md",
     "_posts/2024-11-25-Scrivendo-dal-passato-nel-futuro.md",
-    "_posts/2024-10-24-Problemi-da-risolvere.md",
     "_posts/2024-10-24 Problemi da risolvere e da superare.md",
     "_posts/2024-11-25 Scrivendo dal passato, nel futuro.md",
     "_posts/2024-12-18 Scrivere per rileggersi.md",
