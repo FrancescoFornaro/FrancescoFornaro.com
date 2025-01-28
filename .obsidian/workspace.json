@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "70257c628458f3c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "011543cf97baa042",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e63dc6efe32caeb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41913b5ee1dc47a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "cedf2cffc03d4da1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9f2f0a2f8299d72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "0238bfc069271252",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "3d3272121e974033",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c505b1717a8e65c",
+    "type": "split",
+    "children": [
+      {
+        "id": "65be07971b7b9103",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72217dcd4046c665",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a index"
+            }
+          },
+          {
+            "id": "5ec327d3740c2077",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da index"
+            }
+          },
+          {
+            "id": "2b5e1acd6603e3cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "4d16bfe75a1d840f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "e63dc6efe32caeb9",
+  "lastOpenFiles": [
+    "FrancescoFornaro.com",
+    "Benvenuto.md",
+    "index.md",
+    "README.md",
+    "_posts/2025-01-28-post di prova.md",
+    "_drafts/2025-01-28.md",
+    "assets/css",
+    "_includes",
+    "_layouts",
+    "_drafts",
+    "assets",
+    "_posts",
+    "_sass",
+    "_data"
+  ]
+}
