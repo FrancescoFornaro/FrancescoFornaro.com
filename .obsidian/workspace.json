@@ -11,14 +11,10 @@
             "id": "e63dc6efe32caeb9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-01-13-Tante-realtà.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-01-13-Tante-realtà"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -165,12 +161,24 @@
   "active": "e63dc6efe32caeb9",
   "lastOpenFiles": [
     "_posts/2024-12-18-Scrivere-per-rileggersi.md",
+    "_post_temp",
+    "cartella senza nome",
+    "_posts/2025-01-13-Tante-realtà.md",
+    "_posts/2025-01-13-Tante-realta.md",
+    "staticman.yml",
+    "screenshot.png",
+    "screenshot-layouts.png",
+    "README.md",
+    "Rakefile",
+    "package.json",
+    "package-lock.json",
+    "minimal-mistakes-jekyll.gemspec",
+    "LICENSE",
+    "index.html",
+    "CHANGELOG.md",
+    "assets/js/vendor/jquery/jquery-3.6.0.js",
     "_posts/2024-10-24-Problemi-da-risolvere.md",
     "_posts/2024-11-25-Scrivendo-dal-passato-nel-futuro.md",
-    "_posts/2025-01-13-Tante-realtà.md",
-    "_config.yml",
-    "_config_old.yml",
-    "docs/_config.dev.yml",
     "docs/assets/images/android-chrome-144x144.png",
     "docs/assets/images/air-skin-archive-large.png",
     "docs/assets/images/mm-theme-post-750.jpg",
@@ -179,15 +187,6 @@
     "docs/assets/images/markup-syntax-highlighting-teaser.jpg",
     "docs/assets/images/android-chrome-48x48.png",
     "docs/assets/images/plum-skin-archive-large.png",
-    "docs/assets/images/page-header-og-image.png",
-    "docs/assets/images/plum-skin-post-large.png",
-    "docs/assets/images/browserconfig.xml",
-    "docs/assets/images/manifest.json",
-    "docs/assets/images/favicon.ico",
-    "docs/assets/images",
-    "docs/assets",
-    "docs/_data/comments/welcome-to-jekyll/comment-1529794012288.yml",
-    "docs/_data/comments/welcome-to-jekyll/comment-1529792272424.yml",
     "docs/_pages/year-archive.md",
     "docs/_pages/terms.md",
     "docs/_pages/tag-archive.md",
@@ -205,10 +204,6 @@
     "docs/_pages/archive-layout-with-content.md",
     "docs/_pages/edge-case.md",
     "docs/_pages/404.md",
-    "docs/_pages/about.md",
-    "docs/_pages/category-archive.md",
-    "docs/_drafts/post-draft.md",
-    "docs/_docs/22-faq.md",
-    "docs/_docs/21-license.md"
+    "docs/_pages/about.md"
   ]
 }
