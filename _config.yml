@@ -124,10 +124,10 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mail@francescofornaro.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://new.francescofornaro.com"
-    - label: "Twitter"
+    # - label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://new.francescofornaro.com"
+    - label: "X"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/francesco"
     - label: "Instagram"
@@ -135,7 +135,7 @@ author:
       url: "https://instagram.com/francescofornaro"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://instagram.com/francescofornaro"
+      url: "https://www.linkedin.com/in/francescofornaro/"
 
 # Site Footer
 footer:
@@ -143,9 +143,9 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mail@francescofornaro.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://new.francescofornaro.com"
+    # - label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://new.francescofornaro.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/francesco"
@@ -154,7 +154,7 @@ footer:
       url: "https://instagram.com/francescofornaro"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://instagram.com/francescofornaro"
+      url: "https://www.linkedin.com/in/francescofornaro/"
 
 
 # Reading Files
@@ -315,7 +315,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
+      read_time: false
+      comments: false
+      share: false
       related: true
