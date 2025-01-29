@@ -27,7 +27,8 @@ url: "https://new.francescofornaro.com" # the base hostname & protocol for your 
 twitter_username: Francesco
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes" # Installo il tema Minimal Mistakes
+# theme: minima
 plugins:
   - jekyll-feed
 
