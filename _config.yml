@@ -23,7 +23,7 @@ email: mail@francescofornaro.com
 description: >- # this means to ignore newlines until "baseurl:"
   Se vedi questa modifica, vuol dire che lo script su GitHub ha aggiornato automaticamente il sito, sarebbe spettacolare se funzionasse.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://new.francescofornaro.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Francesco
 
 # Build settings
