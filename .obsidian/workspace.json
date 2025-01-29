@@ -164,6 +164,8 @@
   },
   "active": "a9f2f0a2f8299d72",
   "lastOpenFiles": [
+    "_config.yml",
+    "_config_old.yml",
     "docs/_config.dev.yml",
     "docs/assets/images/android-chrome-144x144.png",
     "docs/assets/images/air-skin-archive-large.png",
@@ -183,8 +185,6 @@
     "docs/_data/comments/welcome-to-jekyll/comment-1529794012288.yml",
     "docs/_data/comments/welcome-to-jekyll/comment-1529792272424.yml",
     "docs/_data/comments/welcome-to-jekyll/comment-1507141538771.yml",
-    "docs/_data/comments/welcome-to-jekyll/comment-1500505983331.yml",
-    "docs/_data/comments/welcome-to-jekyll/comment-1474328950155.yml",
     "docs/_pages/year-archive.md",
     "docs/_pages/terms.md",
     "docs/_pages/tag-archive.md",
