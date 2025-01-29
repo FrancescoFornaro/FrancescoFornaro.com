@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Francesco Fornaro"
+  name: "Francesco Fornaro"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Manager & Senior PM, Trainer, Mental Coach"
   location         : "Turin, Italia"
-  email            : "mail(at)francescofornaro.com
+  email            : "mail(at)francescofornaro.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
