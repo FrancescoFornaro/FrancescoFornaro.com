@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "_posts/2024-12-18-Scrivere-per-rileggersi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "2024-12-18-Scrivere-per-rileggersi"
             }
           }
         ]
@@ -164,6 +164,9 @@
   },
   "active": "e63dc6efe32caeb9",
   "lastOpenFiles": [
+    "_posts/2025-01-13-Tante-realtà.md",
+    "_posts/2024-12-18-Scrivere-per-rileggersi.md",
+    "about.md",
     "_assets",
     "cartella senza nome",
     "_data",
@@ -177,16 +180,12 @@
     "contenuti",
     "index.md",
     "_posts/2025-01-28-welcome-to-jekyll.md",
-    "_posts/2025-01-13 Tante-realtà.md",
-    "_posts/2024-12-18 Scrivere-per-rileggersi.md",
     "_posts/2024-10-24 Problemi da risolvere e da superare.md",
     "_posts/2024-11-25 Scrivendo dal passato, nel futuro.md",
     "_posts/2024-12-18 Scrivere per rileggersi.md",
     "_posts/2025-01-13 Tante realtà ma la verità è una.md",
-    "about.md",
     "_posts/2025-01-28-welcome-to-jekyll.markdown",
     "index.markdown",
-    "Gemfile.lock",
     "Benvenuto.md",
     "README.md",
     "_posts/2025-01-28-post di prova.md",
