@@ -18,16 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Francesco Fornaro - Personal & Project Management
+title: Personal & Project Management
 email: mail@francescofornaro.com
+author: Francesco Fornaro
 description: >- # this means to ignore newlines until "baseurl:"
   Se vedi questa modifica, vuol dire che lo script su GitHub ha aggiornato automaticamente il sito, sarebbe spettacolare se funzionasse.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://new.francescofornaro.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Francesco
+permalink: /:categories/:title/
+paginate_path: "/page:num/"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes" # Installo il tema Minimal Mistakes
+
 # theme: minima
 plugins:
   - jekyll-feed
