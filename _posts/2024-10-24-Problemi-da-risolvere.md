@@ -1,4 +1,3 @@
-
 Esistono due tipologie di problemi con cui abbiamo a che fare: i problemi che si possono **risolvere** e i problemi che si devono **superare**.
 
 Queste tipologie derivano dalla natura del problema: ci sono infatti problemi che sono risolvibili, ma ne esistono anche altri che non lo sono.

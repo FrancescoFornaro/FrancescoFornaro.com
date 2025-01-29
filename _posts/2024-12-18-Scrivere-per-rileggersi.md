@@ -1,9 +1,6 @@
 ---
 modified: 2024-12-18
 ---
-mercoledì 18 dicembre 2024
-___
-
 Da tempo si parla di _journaling_ e dei benefici che abbiamo consolidando l'abitudine di scrivere quotidianamente. 
 
 Quando ero giovane si diceva "tenere un diario" e nel farlo ci si riferiva perlopiù a un'attività adolescenziale, utile per annotare le prime esperienze emotivamente di impatto. Non c'era il riferimento all'abitudine a scrivere quotidianamente da adulti e non si facevano discussioni, teorie e ipotesi sull'utilità pratica e psicologica.
@@ -113,6 +110,4 @@ Ciò che davvero conta è il rispetto di quelle tre regole: **scrivi per te e so
 
 Imparerai molto, rifletterai ancora di più.
 
-***
-#pubblicato #community 
 

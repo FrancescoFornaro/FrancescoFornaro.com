@@ -1,11 +1,6 @@
 ---
 modified: 2025-01-17
 ---
-lunedì 13 gennaio 2025
-___
-v. anche → [[2022-01-14 La verità e le relazioni]]
-***
-
 Realtà e verità non sono la stessa cosa.
 
 Per molti anni - in passato - ho lavorato in profondità e da tanti angoli d'attacco diversi al concetto di _realtà_. 
@@ -59,5 +54,3 @@ Entrare in quest'ottica ti aiuta a capire meglio, a essere più empatico, a prop
 Se non capiamo la realtà altrui, non riusciamo neanche a comprendere il perché delle decisioni che vengono assunte. Posso addirittura sembrarci assurde o totalmente contrarie alle nostre. Questo succede se la tua realtà è opposta a quella dell'altro, se vedete le cose in modo polare, diametralmente opposto. 
 
 Certo... in un mondo ideale tutti quanti parleremmo e ci confronteremmo sulla base della **verità**. La quale però, come detto prima, è molto delicata e complessa da stabilire con certezza. 
-
-#pubblicato #community 
