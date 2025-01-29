@@ -165,8 +165,9 @@
   "active": "e63dc6efe32caeb9",
   "lastOpenFiles": [
     "_posts/2024-12-18-Scrivere-per-rileggersi.md",
-    "_posts/2024-11-25-Scrivendo-dal-passato-nel-futuro.md",
     "_posts/2024-10-24-Problemi-da-risolvere.md",
+    "_posts/2024-11-25-Scrivendo-dal-passato-nel-futuro.md",
+    "_posts/2025-01-13-Tante-realtà.md",
     "_config.yml",
     "_config_old.yml",
     "docs/_config.dev.yml",
@@ -208,7 +209,6 @@
     "docs/_pages/category-archive.md",
     "docs/_drafts/post-draft.md",
     "docs/_docs/22-faq.md",
-    "docs/_docs/21-license.md",
-    "docs/_docs/19-contributing.md"
+    "docs/_docs/21-license.md"
   ]
 }

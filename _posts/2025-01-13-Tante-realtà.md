@@ -1,6 +1,3 @@
----
-modified: 2025-01-17
----
 Realtà e verità non sono la stessa cosa.
 
 Per molti anni - in passato - ho lavorato in profondità e da tanti angoli d'attacco diversi al concetto di _realtà_. 
