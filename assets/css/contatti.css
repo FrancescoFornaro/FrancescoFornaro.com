@@ -5,7 +5,7 @@
   justify-content: space-between;
   align-items: flex-start;
   padding: 20px;
-  max-width: 100%; /* Assicurati che non esca dallo schermo */
+  max-width: 95%; /* Assicurati che non esca dallo schermo */
   box-sizing: border-box;
 }
 
@@ -59,4 +59,20 @@
   max-width: 100%;
   height: auto;
   border-radius: 8px;
+}
+
+/* Media query per dispositivi mobili */
+@media (max-width: 768px) {
+  .contenitore {
+    flex-direction: column; /* Le colonne si impilano su mobile */
+  }
+
+  .form-container,
+  .image-container {
+    width: 100%; /* Ogni sezione occupa tutta la larghezza su mobile */
+  }
+
+  .image-container {
+    display: none; /* Nascondi l'immagine su dispositivi mobili */
+  }
 }
