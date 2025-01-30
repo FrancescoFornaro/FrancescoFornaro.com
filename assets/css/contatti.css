@@ -5,10 +5,16 @@
   justify-content: space-between;
   align-items: flex-start;
   padding: 20px;
+  max-width: 100%; /* Assicurati che non esca dallo schermo */
+  box-sizing: border-box;
+}
+
+.form-container,
+.image-container {
+  width: 48%; /* Entrambi i contenitori occupano il 48% della larghezza */
 }
 
 .form-container {
-  width: 45%;
   padding: 20px;
   border: 1px solid #ddd;
   background-color: #f9f9f9;
@@ -44,12 +50,13 @@
 }
 
 .image-container {
-  width: 45%;
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .image-container img {
-  width: 100%;
+  max-width: 100%;
   height: auto;
   border-radius: 8px;
 }
