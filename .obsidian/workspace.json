@@ -177,11 +177,12 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "a9f2f0a2f8299d72",
+  "active": "3426101a9af273eb",
   "lastOpenFiles": [
+    "_pages/about.md",
+    "_pages/contatti.md",
     "_pages",
     "index.md",
-    "_pages/contatti.md",
     "_posts/2025-01-17-Realtà-e-verità.md",
     "_posts/2024-12-18-Scrivere-per-rileggersi.md",
     "_posts/2024-11-25-Scrivendo-dal-passato-nel-futuro.md",
@@ -216,7 +217,6 @@
     "minimal-mistakes-jekyll.gemspec",
     "LICENSE",
     "index.html",
-    "assets/js/vendor/jquery/jquery-3.6.0.js",
     "docs/assets/images/android-chrome-144x144.png",
     "docs/assets/images/air-skin-archive-large.png",
     "docs/assets/images/mm-theme-post-750.jpg",
