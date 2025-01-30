@@ -2,11 +2,11 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
+  - title: "Chi sono"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
+  - title: "Contenuti"
   #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Community"
+    url: https://link.francescofornaro.com
+  - title: "Contatti"
+  #   url: /contatti/
