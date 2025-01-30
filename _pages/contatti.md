@@ -1,5 +1,6 @@
 ---
 title: Contatti
+layout: default
 permalink: /contatti/
 ---
 
