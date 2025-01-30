@@ -1,5 +1,6 @@
 ---
-title: Contattami
+title: Contatti
+permalink: /contatti/
 ---
 
 Compila il form per contattarmi.

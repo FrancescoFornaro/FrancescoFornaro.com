@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contatti.md",
+                "file": "_pages/contatti.md",
                 "mode": "source",
                 "source": false
               },
@@ -179,8 +179,9 @@
   },
   "active": "a9f2f0a2f8299d72",
   "lastOpenFiles": [
+    "_pages",
     "index.md",
-    "contatti.md",
+    "_pages/contatti.md",
     "_posts/2025-01-17-Realtà-e-verità.md",
     "_posts/2024-12-18-Scrivere-per-rileggersi.md",
     "_posts/2024-11-25-Scrivendo-dal-passato-nel-futuro.md",
@@ -204,7 +205,6 @@
     "_posts/2025-01-17 Realtà e verità.md",
     "_posts/2024-12-18 Scrivere per rileggersi.md",
     "_posts/2024-11-25 Scrivendo dal passato, nel futuro.md",
-    "_posts/2024-10-24 Problemi da risolvere e da superare.md",
     "_post_temp",
     "cartella senza nome",
     "staticman.yml",
