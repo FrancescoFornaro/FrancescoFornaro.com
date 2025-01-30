@@ -5,11 +5,13 @@
   justify-content: space-between;
   align-items: flex-start;
   padding: 20px;
+  max-width: 100%; /* Assicurati che non esca dallo schermo */
+  box-sizing: border-box;
 }
 
 .form-container,
 .image-container {
-  width: 48%; /* Imposta larghezza per entrambe le colonne */
+  width: 48%; /* Entrambi i contenitori occupano il 48% della larghezza */
 }
 
 .form-container {
