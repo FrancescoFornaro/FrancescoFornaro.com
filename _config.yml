@@ -204,6 +204,7 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+parse_block_html: true # serve a interpretare l'html dentro i file .md
 
 
 # Markdown Processing
