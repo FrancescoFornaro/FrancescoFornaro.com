@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/contatti.md",
+                "file": "_pages/about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contatti"
+              "title": "about"
             }
           }
         ],
@@ -179,6 +179,7 @@
   },
   "active": "3426101a9af273eb",
   "lastOpenFiles": [
+    "_pages/contatti.md",
     "assets/css/contatti.css",
     "_assets/css/contatti.css",
     "_assets/css/main.scss",
@@ -189,10 +190,8 @@
     "_assets/js/plugins/jquery.greedy-navigation.js",
     "_assets/js/plugins/jquery.fitvids.js",
     "_assets/js/plugins/gumshoe.js",
-    "_assets/js/plugins/jquery.ba-throttle-debounce.js",
     "assets/images/contact_new_ff.jpg",
     "_pages/about.md",
-    "_pages/contatti.md",
     "index.md",
     "_posts/2025-01-17-Realtà-e-verità.md",
     "_posts/2024-12-18-Scrivere-per-rileggersi.md",
