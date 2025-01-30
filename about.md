@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About
+layout: single #page
+title: Chi sono
 permalink: /about/
 ---
 
