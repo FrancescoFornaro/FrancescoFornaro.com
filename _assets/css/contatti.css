@@ -7,8 +7,12 @@
   padding: 20px;
 }
 
+.form-container,
+.image-container {
+  width: 48%; /* Imposta larghezza per entrambe le colonne */
+}
+
 .form-container {
-  width: 45%;
   padding: 20px;
   border: 1px solid #ddd;
   background-color: #f9f9f9;
@@ -44,12 +48,13 @@
 }
 
 .image-container {
-  width: 45%;
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .image-container img {
-  width: 100%;
+  max-width: 100%;
   height: auto;
   border-radius: 8px;
 }
